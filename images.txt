@@ -1,1 +1,1 @@
-tomcat:9.0.91-jre8
+kubespheredev/elasticsearch-curator:v5.7.6-arm64
