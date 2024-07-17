@@ -1,1 +1,1 @@
-kubespheredev/elasticsearch-curator:v5.7.6-arm64
+docker.elastic.co/elasticsearch/elasticsearch-oss:6.8.22
