@@ -1,1 +1,1 @@
-docker.elastic.co/elasticsearch/elasticsearch-oss:6.8.22
+docker.elastic.co/elasticsearch/elasticsearch-oss:7.9.1-arm64
