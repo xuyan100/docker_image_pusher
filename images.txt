@@ -1,1 +1,1 @@
-erikdubbelboer/phpredisadmin
+sasanrose/phpredmin
