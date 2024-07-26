@@ -1,1 +1,1 @@
-calico
+prom/node-exporter
