@@ -1,1 +1,2 @@
-kubesphere/nginx-ingress-controller:v1.1.0
+kubesphere/log-sidecar-injector:v1.2.0
+jimmidyson/configmap-reload:v0.5.0
