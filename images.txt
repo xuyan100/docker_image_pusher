@@ -1,2 +1,2 @@
-kubesphere/log-sidecar-injector:v1.2.0
-jimmidyson/configmap-reload:v0.5.0
+kubesphere/fluent-bit:v1.8.11
+kubesphere/elasticsearch-curator:v5.7.6
