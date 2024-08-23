@@ -1,1 +1,2 @@
-elasticsearch:7.6.2
+arm64v8/redis:6.2.14
+arm64v8/zookeeper:3.8.4
