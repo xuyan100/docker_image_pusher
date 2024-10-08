@@ -1,1 +1,1 @@
-docker.io/kubeedge/installation-package:v1.18.0
+kubeedge/cloudcore:v1.13.4
