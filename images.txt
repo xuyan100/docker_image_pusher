@@ -1,1 +1,1 @@
-docker.io/kubesphere/kube-state-metrics:v2.12.0
+hwdsl2/ipsec-vpn-server
