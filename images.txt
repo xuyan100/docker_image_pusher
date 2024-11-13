@@ -1,1 +1,1 @@
-hwdsl2/ipsec-vpn-server
+openeuler/bisheng-jdk:1.8.0-oe2203lts
