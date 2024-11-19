@@ -1,1 +1,1 @@
-openeuler/bisheng-jdk:1.8.0-oe2203lts
+jfelten/openvpn-docker:1.1.0
