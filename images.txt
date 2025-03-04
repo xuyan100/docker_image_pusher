@@ -1,1 +1,1 @@
-sameersbn/bind:latest
+sonatype/nexus3:3.38.0
