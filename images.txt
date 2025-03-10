@@ -1,1 +1,1 @@
-sonatype/nexus3:3.38.0
+nacos/nacos-operator:latest
